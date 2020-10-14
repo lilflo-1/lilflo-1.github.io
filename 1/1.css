@@ -1,0 +1,47 @@
+html {
+  margin: 0px;
+  padding: 0px;
+}
+
+body 
+
+.slider {
+  position: relative;
+  margin: 0 auto;
+  overflow: hidden; 
+  width: 1000px;
+  height: 600px;
+padding-left: 20px;  
+}
+.big {
+  position: absolute;
+  top:600px;
+  left: 20px;
+}
+.slider a {
+  float: left;
+  margin: 15px;
+  
+}
+.slider a:hover .big {
+  box-shadow: 0px 0px 15px #000;
+  -webkit-box-shadow: 0px 0px 15px #000;
+  -moz-box-shadow: 0px 0px 15px #000;
+  
+}
+.slider a:hover .min {
+  box-shadow: 0px 0px 15px #000;
+  -webkit-box-shadow: 0px 0px 15px #000;
+  -moz-box-shadow: 0px 0px 15px #000; 
+}
+
+.slider a:hover .big {
+  top: 120px;
+  
+}
+
+.default {
+  top: 120px;
+  left: 20px;
+  z-index: -1;
+}

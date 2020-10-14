@@ -1,0 +1,57 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+     <head>
+          <meta charset="utf-8">
+          <link rel="stylesheet" type="text/css" href="1.css" />
+          <title>Растения в комнатном интерьере</title>
+     </head> 
+<body>
+
+<body style="background-image: url(list3.jpg); background-repeat: no-repeat" >
+
+
+
+<table width="1200"align="center"border="3" >
+<td width=1100  height="90" > <img src="30.jpg">
+
+<p align="center"><font face="Comic Sans MS" size="+1" color="#008000">
+Во время оформления пространства цветы в интерьере квартиры помогают решить важные задачи. С их помощью легко подчеркнуть достоинства комнаты или замаскировать недостатки, разделить помещение на зоны, создать неповторимую атмосферу. Чтобы избежать ошибок, связанных с декорированием, перед началом работ изучите предложенную информацию.
+Информация с сайта: https://roomester.ru/landshaft/komnatnye-rasteniya/cvety-v-interere.html 
+
+
+<p><a href="https://roomester.ru/landshaft/komnatnye-rasteniya/cvety-v-interere.html"> Цветы в интерьере</a></p>
+</p>
+</td>
+
+</table>
+
+
+    <div class="slider">
+        <a href="#">
+            <img class="min" src="1-1.jpg">
+            <img class="big" src="1.jpg">
+        </a>
+        <a href="#">
+            <img class="min" src="2-1.jpg">
+            <img class="big" src="2.jpg">
+        </a>
+        <a href="#">
+            <img class="min" src="3-1.jpg">
+            <img class="big" src="3.jpg">
+        </a>
+        <a href="#">
+            <img class="min" src="4-1.jpg">
+            <img class="big" src="4.jpg">
+        </a>
+		 <a href="#">
+            <img class="min" src="5-1.jpg">
+            <img class="big" src="5.jpg">
+        </a>
+        <a href="#">
+            <img class="big default" src="1.jpg">
+        </a>
+    </div> 
+</body>
+</html>

@@ -1,0 +1,58 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<head>
+<body style="background-image: url(fotosad/foto3-1.jpg); background-repeat: no-repeat" >
+<title>Документ без названия</title>
+<style type="text/css">
+body,td,th {
+     background: #F5A9F2;	
+     font-size: 16px;
+	color: #000;
+}
+h1 {
+	font-size: 40px;
+}
+h2 {
+	font-size: 30px;
+}
+
+</style>
+</head>
+
+<body>
+<table width="1000"align="center" border="1">
+  <tr>
+    <td width="255" height="164" bgcolor="#FF9999"><div align="center">
+<img src="fotosad/foto3.jpg" width="187" height="132" border="0" usemap="#Map" fotosad/foto3-1.jpg" /></td>
+    <td width="745" bgcolor="#D98686">
+      <h1>Флоксы</h1>
+     </td>
+  </tr>
+</table>
+    <table width="1000"align="center" border="1">
+<tr>
+ <td width="1000" bgcolor="#FF3366">
+  <h2> Флоксы – одни из самых ярких и удивительных представителей мира декоративной флоры, способные покорить сердце любого садовода. Их сортовое и видовое разнообразие предоставляет безграничные возможности для реализации самых невероятных творческих решений, касающихся оформления приусадебной территории. 
+
+Флоксы – роскошные многолетники, которые растут практически в каждом саду. Эти неприхотливые цветы украшают участок на протяжении всего лета и начала осени. В уходе растения комфортны, поэтому они присутствуют и в парках, и в скверах. Они могут располагаться на парадном месте в одиночных клумбах-солитёрах или окаймлять бордюрные композиции. Из флоксов, высаженных по прямой линии, делают живые изгороди, а из разных видов и сортов цветка организуют специальные садики – флоксарии. Помимо своей красивой внешности флоксы дарят невероятно нежный аромат.
+
+
+
+
+
+</h2>
+</td>
+</tr>
+      
+
+     
+</table>
+
+<map name="Map" id="Map">
+
+
+  <area shape="rect" coords="6,3,579,123" href=" fotosad/foto3-1.jpg" alt="" />
+</map>
+</body>
+</html>

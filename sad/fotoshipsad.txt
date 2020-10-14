@@ -1,0 +1,54 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<head>
+<body style="background-image: url(fotosad/foto2-1.jpg); background-repeat: no-repeat" >
+<title>Документ без названия</title>
+<style type="text/css">
+body,td,th {
+     background: #F5A9F2;	
+     font-size: 16px;
+	color: #000;
+}
+h1 {
+	font-size: 40px;
+}
+h2 {
+	font-size: 30px;
+}
+
+</style>
+</head>
+
+<body>
+<table width="1000"align="center" border="1">
+  <tr>
+    <td width="255" height="164" bgcolor="#FF9999"><div align="center">
+<img src="fotosad/foto2.jpg" width="187" height="132" border="0" usemap="#Map" fotosad/foto2-1.jpg" /></td>
+    <td width="745" bgcolor="#D98686">
+      <h1>шиповник махровый</h1>
+     </td>
+  </tr>
+</table>
+    <table width="1000"align="center" border="1">
+<tr>
+ <td width="1000" bgcolor="#FF3366">
+  <h2> Шиповник — одно из самых известных растений. Принадлежит это растение семейству Розовых. Это удивительное и очень нарядное растение. Оно совершено некапризное, особого ухода  за собой не требует. Кустарник имеет более чем 300 видов, а возраст некоторых сортов достигает 400 лет.
+Самым распространённым  является майский шиповник. Растение очень хорошо справляется с любой погодой, отличается исключительной устойчивостью.
+Так как махровый шиповник является гибридом роз и дикого кустарника, то используют его широко в ландшафтном дизайне. Ведь кустарник близок по красоте розе, но неприхотлив к условиям произрастания. Растение хорошо приживается на любом садовом участке. Чаще всего используют кусты для создания живой изгороди. Роскошная листва, нежные цветы станут декоративной стеной на границе зон загородной территории.
+
+</h2>
+</td>
+</tr>
+      
+
+     
+</table>
+
+<map name="Map" id="Map">
+
+
+  <area shape="rect" coords="6,3,579,123" href=" fotosad/foto2-1.jpg" alt="" />
+</map>
+</body>
+</html>

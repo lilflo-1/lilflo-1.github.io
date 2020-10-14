@@ -1,0 +1,51 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<head>
+<body style="background-image: url(fotohome/foto3-2.jpg); background-repeat: no-repeat" >
+<title>Документ без названия</title>
+<style type="text/css">
+body,td,th {
+     background: #D98686;	
+     font-size: 16px;
+	color: #000;
+}
+h1 {
+	font-size: 30px;
+}
+h2 {
+	font-size: 30px;
+}
+
+</style>
+</head>
+
+<body>
+<table width="1000"align="center" border="1">
+  <tr>
+    <td width="255" height="164" bgcolor="#FF9999"><div align="center">
+<img src="fotohome/foto3.jpg" width="187" height="132" border="0" usemap="#Map" longdesc="background: #c7b39b fotohome/foto2-3.jpg" /></td>
+    <td width="745" bgcolor="#D98686">
+      <h1>Стапелия</h1>
+     </td>
+  </tr>
+</table>
+    <table width="1000"align="center" border="1">
+<tr>
+ <td width="1000" bgcolor="#FF3366">
+  <h2>Комнатное растение стапелия, будучи суккулентом, не нуждается ни в обильном поливе, ни в опрыскивании. Переувлажнение грунта может привести к возникновению грибковых инфекций и, как следствие, к гниению растения. Чтобы этого не произошло, при посадке стапелии на дно горшка помещают слой дренажа из керамзита или глиняных черепков, а поливают растение с марта по сентябрь не чаще раза в неделю, а с октября по декабрь – раз в неделю, в декабре и январе стапелию не поливают вообще. В качестве удобрения стапелия в домашних условиях предпочитает смеси для суккулентных и кактусов, которыми ее подкармливают в летнее время два раза в месяц. Хорошо отзывается растение на внесение калийных удобрений, укрепляющих иммунитет стапелии к болезням. Зимой растение в подкормках не нуждается.
+</h2>
+</td>
+</tr>
+      
+
+     
+</table>
+
+<map name="Map" id="Map">
+
+
+  <area shape="rect" coords="6,3,579,123" href=" fotohome/foto3-2.jpg" alt="" />
+</map>
+</body>
+</html>

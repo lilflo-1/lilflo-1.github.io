@@ -1,0 +1,146 @@
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+   <link rel="stylesheet" type="text/css" href="style.css" />
+<title>Заголовок  сайта</title>
+</head>
+
+<body>
+<body style="background-image: url(trava.jpg); background-repeat: no-repeat" >
+ </body>
+<body>
+<table width="1200"align="center"border="3" >
+<td width=1100  height="90" > <img src="19.jpg"></td>
+</table>
+<table width="1200"height="90"align="center"border="3" >
+<p align="center"><font face="Comic Sans MS" size="+5" color="#000000">
+Статьи
+</p>
+</table>
+
+<table width="1200" align="center">
+<style>
+/* задаем цвет фона для контейнера nav. */
+			nav {
+			   
+                            width: 1200px; 
+                             margin-left: auto;
+                             margin-right: auto;
+			    background-color: #00FF00;
+			}
+			
+			/* убираем отступы и поля, а также list-style для "ul", 
+			 * и добавляем "position:relative" */
+			nav ul {
+			    padding:0;
+			    margin:0;
+			    list-style: none;
+			    position: relative;
+			    }
+			
+			/* применяем inline-block позиционирование к элементам навигации */
+			nav ul li {
+			    margin: 0px -7px 0 0;
+			    display:inline-block;
+			    background-color: #00FF00;
+			    }
+			
+			/* стилизуем ссылки */
+			nav a {
+			    display:block;
+			    padding:0 10px;
+			    color:#000000;
+			    font-size:20px;
+			    line-height: 60px;
+			    text-decoration:none;
+			}
+			
+			/* изменяем цвет фона при наведении курсора */
+			nav a:hover {
+			    background-color: #90EE90;
+		}
+
+
+
+
+/* скрываем выпадающие списки по умолчанию
+			 * и задаем абсолютное позиционирование */
+			nav ul ul {
+			    display: none;
+			    position: absolute;
+			    top: 100%;
+			}
+			
+			/* отображаем выпадающий список при наведении */
+			nav ul li:hover > ul {
+			    display:inherit;
+			}
+			
+			/* первый уровень выпадающего списка */
+			nav ul ul li {
+			    min-width:270px;
+			    float:none;
+			    display:list-item;
+			    position: relative;
+			}
+
+    </style>
+
+<nav>
+			    <ul>
+			       
+			        <li><a href="#">Дизайн</a>
+			
+			            <!-- первый уровень выпадающего списка -->
+			            <ul>
+			                <li><a href="https://roomester.ru/landshaft/komnatnye-rasteniya/cvety-v-interere.html">Цветы в интерьере</a></li>
+			                <li><a href="https://roomester.ru/landshaft/komnatnye-rasteniya/domashnie-cvety.html">Домашние цветы</a></li>
+			            </ul>
+			
+			        </li>
+			        <li><a href="#">Путешествия</a>
+
+                                     <ul>
+			                <li><a href="https://koffkindom.ru/komnatnye-rasteniya-i-ix-rodina.htm#i-5">Родина комнатных растений</a></li>
+			                
+			            </ul>
+                                 </li>
+
+
+			        <li><a href="#">Уход за растениями</a>
+                                    <ul>
+			                <li><a href="https://roomester.ru/landshaft/komnatnye-rasteniya/komnatnaya-roza.html">комнатная роза</a></li>
+			                
+			            </ul>
+
+                                </li>
+			       
+			    </ul>
+		</nav>
+
+</table>
+ </body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

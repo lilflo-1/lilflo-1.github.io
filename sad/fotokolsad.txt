@@ -1,0 +1,53 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<head>
+<body style="background-image: url(fotosad/foto5-2.jpg); background-repeat: no-repeat" >
+<title>Документ без названия</title>
+<style type="text/css">
+body,td,th {
+     background: #ad90de;	
+     font-size: 16px;
+	color: #000;
+}
+h1 {
+	font-size: 40px;
+}
+h2 {
+	font-size: 30px;
+}
+
+</style>
+</head>
+
+<body>
+<table width="1000"align="center" border="1">
+  <tr>
+    <td width="255" height="164" bgcolor="#FF9999"><div align="center">
+<img src="fotosad/foto5.jpg" width="187" height="132" border="0" usemap="#Map" fotosad/foto5-2.jpg" /></td>
+    <td width="745" bgcolor="#D98686">
+      <h1>Колокольчик широколистный</h1>
+     </td>
+  </tr>
+</table>
+    <table width="1000"align="center" border="1">
+<tr>
+ <td width="1000" bgcolor="#FF3366">
+  <h2>Колокольчик широколистный неприхотливый многолетник. Это наиболее декоративные  колокольчики. Цветочки большого размера, светло-фиолетовые, собранные в соцветия. Высота растения от семидесяти до ста пятидесяти сантиметров.
+Цветение происходит на второй год. Начинает отрастать в первых числах апреля. Фаза бутонизации происходит с середины  мая, а в конце этого же месяца начинается период цветения. Стебельки прямые. Цветочки колокольчикоподобные, которые находятся в пазухах верхних листочков  и собранные в густо колосовидную гроздь.
+Цветение происходит до конца июня. Семена дозревают в сентябре. Осенние посевы дают хорошие всходы в весенний период. Густо цветёт на открытых солнечных местах. Грунт лучше использовать супесчаный и суглинистый.
+</h2>
+</td>
+</tr>
+      
+
+     
+</table>
+
+<map name="Map" id="Map">
+
+
+  <area shape="rect" coords="6,3,579,123" href=" fotosad/foto5-2.jpg" alt="" />
+</map>
+</body>
+</html>

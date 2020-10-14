@@ -1,0 +1,57 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<head>
+<body style="background-image: url(fotosad/foto4-2.jpg); background-repeat: no-repeat" >
+<title>Документ без названия</title>
+<style type="text/css">
+body,td,th {
+     background: #F4E430;	
+     font-size: 16px;
+	color: #000;
+}
+h1 {
+	font-size: 40px;
+}
+h2 {
+	font-size: 30px;
+}
+
+</style>
+</head>
+
+<body>
+<table width="1000"align="center" border="1">
+  <tr>
+    <td width="255" height="164" bgcolor="#FF9999"><div align="center">
+<img src="fotosad/foto4.jpg" width="187" height="132" border="0" usemap="#Map" fotosad/foto4-2.jpg" /></td>
+    <td width="745" bgcolor="#D98686">
+      <h1>Золотарник</h1>
+     </td>
+  </tr>
+</table>
+    <table width="1000"align="center" border="1">
+<tr>
+ <td width="1000" bgcolor="#FF3366">
+  <h2>Золотарник, или золотая розга – многолетнее травянистое растение семейства Астровые. В дикорастущем виде широко распространено в умеренных широтах северного полушария. В переводе с латинского название означает «крепкий, здоровый», что связно с уникальными целебными свойствами золотарника.
+Цветки и корни растения оказывают противовоспалительное и вяжущее действие, применяются в рецептах народной медицины. 
+  Золотарник подходит как для одиночной, так и групповой посадки. Особенно декоративно смотрится с другими астровыми, хвойными кустарниками и злаковыми культурами.
+  При большой посадке следует соблюдать осторожность, поскольку семена обладают высокой всхожестью, растение стремительно заполоняет большое пространство. Чтобы избежать самосева, бутоны после окончания цветения важно срезать.
+Золотарник – неприхотливое растение, способное быстро развиваться и расти в любых условиях, адаптируется к неблагоприятным факторам.
+
+
+</h2>
+</td>
+</tr>
+      
+
+     
+</table>
+
+<map name="Map" id="Map">
+
+
+  <area shape="rect" coords="6,3,579,123" href=" fotosad/foto4-2.jpg" alt="" />
+</map>
+</body>
+</html>

@@ -1,0 +1,48 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<head>
+<body style="background-image: url(fotohome/foto6-2.jpg); background-repeat: no-repeat" >
+<title>Документ без названия</title>
+<style type="text/css">
+body,td,th {
+     background: #29F6D1;	
+     font-size: 16px;
+	color: #000;
+}
+h1 {
+	font-size: 30px;
+}
+h2 {
+	font-size: 30px;
+}
+
+</style>
+</head>
+
+<body>
+<table width="1000"align="center" border="1">
+  <tr>
+    <td width="255" height="164" bgcolor="#FF9999"><div align="center">
+<img src="fotohome/foto6.jpg" width="187" height="132" border="0" usemap="#Map" fotohome/foto6-2.jpg" /></td>
+    <td width="745" bgcolor="#FF3366">
+      <h1>Спатифиллум</h1>
+     </td>
+  </tr>
+</table>
+    <table width="1000"align="center" border="1">
+<tr>
+ <td width="1000" bgcolor="#FF3366">
+  <h2>Спатифиллум (Spathiphyllum) – популярное многолетнее растение семейства ароидных. Название происходит от двух греческих слов: «спата» – покрывало и «филлум» – лист, характеризуя специфичную форму цветка, которая напоминает обыкновенный лист растения, но только белого цвета.
+Родина спатифиллума – Южная Америка, Восточная Азия, Полинезия. Стебель у растения отсутствует, прикорневые листья образуют пучок прямо из почвы. Корневая система цветка достаточно короткая.
+Цветок под названием «спатифиллум» является большим любимцем среди флористов и цветоводов. Это комнатный цветок, который не требователен к освещению. Спатифиллум любит повышенную влажность. Но застаиваться вода в горшке со спатифиллумом не должна, поэтому лишнюю воду в случае её образования, непременно следует сливать. Растёт в рыхлом грунте, удобрять нужно универсальным удобрением раз в месяц.Размножается спатифиллум в основном делением куста
+</h2>
+</td>
+</tr>    
+  
+</table>
+<map name="Map" id="Map">
+  <area shape="rect" coords="6,3,579,123" href=" fotohome/foto6-2.jpg" alt="" />
+</map>
+</body>
+</html>

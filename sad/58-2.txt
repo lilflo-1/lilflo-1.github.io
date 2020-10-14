@@ -1,0 +1,83 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+
+<body style="background-image: url(fotosad/rose.jpg); background-repeat: no-repeat" >
+ </body>
+<table width="1200"align="center"border="3" >
+<td width="1200"  height="90" > <img src="fotosad/24.jpg"></td>
+</table>
+<style type="text/css">
+body,td,th {
+     background: #98FB98;	
+     font-size: 16px;
+	color: #000;
+
+
+}
+h1 {
+	font-size: 15px;
+
+        font-family: Arial, Helvetica, sans-serif;
+}
+h2 {
+	font-size: 30px;
+}
+a:link {
+	color: #FC3;
+	text-decoration: none;
+}
+a:visited {
+	color: #00F;
+	text-decoration: none;
+}
+a:hover {
+	color: #C39;
+	text-decoration: underline;
+}
+a {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 28px;
+}
+a:active {  
+	text-decoration: none;
+}
+</style>
+<table width="1200"align="center"border="3" >
+<td valign="left" bgcolor="#33cc33">
+<table align="center" border="0">
+<tr>
+<td>
+<h1>Сирень белая</h1></td>
+<td><h1> Шиповник махровый </h1></td>
+<td><h1>Флоксы</h1></td>
+</tr>
+<td> 
+<tr>
+<td> <a href="fotosirsad.html" ><img src="fotosad/foto1.jpg" ></a></td>
+<td> <a href="fotoshipsad.html" ><img src="fotosad/foto2.jpg" ></a></td>
+<td> <a href="fotofloksad.html" ><img src="fotosad/foto3.jpg" ></a></td>
+</tr>
+<tr>
+<td> <h1>Золотарник</h1></td>
+<td> <h1>Колокольчик</h1></td>
+<td> <h1>гелиопсис</h1></td>
+</tr>
+<tr>
+<td> <a href="fotozolorsad.html" ><img src="fotosad/foto4.jpg" ></a></td>
+<td> <a href="fotokolsad.html" ><img src="fotosad/foto5.jpg" ></a></td>
+<td><a href="fotogeliopsad.html" ><img src="fotosad/foto6.jpg" ></a></td>
+</tr>
+
+
+</table>
+<p>
+	<a href="http://jigsaw.w3.org/css-validator/check/referer">
+		<img style="border:0;width:88px;height:31px"
+			src="//jigsaw.w3.org/css-validator/images/vcss"
+			alt="Правильный CSS!" />
+	</a>
+</p>
+</html>
